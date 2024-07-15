@@ -1,0 +1,12 @@
+node_modules/
+/package-lock.json
+/test-results/
+/allure-results/
+/allure-report/
+/playwright/.cache/
+/trace-report
+results.json
+playwright-report/index.html
+/playwright-report
+/results.xml
+.env.*
